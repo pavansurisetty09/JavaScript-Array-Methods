@@ -1,2 +1,1 @@
-#JavaScript Array Methods
-   --Js Array Methods--
+--JavaScript Array Methods--
